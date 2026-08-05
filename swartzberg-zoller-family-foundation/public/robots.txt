@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swartzberg-zoller-family-foundation.bond/sitemap.xml

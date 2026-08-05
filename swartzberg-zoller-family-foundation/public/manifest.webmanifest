@@ -1,0 +1,16 @@
+{
+  "name": "Swartzberg Zoller Family Foundation",
+  "short_name": "SZFF",
+  "description": "A registered 501(c)(3) nonprofit organization supporting families and communities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
